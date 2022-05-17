@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on [Jira App](http://127.0.0.1:5500/FJP6-main/module3/jira/index.html)
+- 🔭 Recent Project [Jira App](https://jira-web-bhavya.netlify.app)
 
 - 🌱 I’m currently learning **Web Development and Data Structure Algorithms**
 

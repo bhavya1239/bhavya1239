@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 Recent Project [Excel Dom Clone](https://exceldomclone.netlify.app/)
+- 🔭 Recent Project [Excel Dom Clone](https://gamebuzz.netlify.app/)
 
 - 🌱 I’m currently learning **Web Development and Data Structure Algorithms**
 

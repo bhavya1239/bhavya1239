@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development and Data Structure Algorithms**
 
-- 💬 Ask me about **HTML, CSS, Java Script, Python, Basic Java**
+- 💬 Ask me about **HTML, CSS, Java Script, Python, Numpy, Pandas**
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 

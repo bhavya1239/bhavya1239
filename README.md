@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya1239&show_icons=true&locale=en&layout=compact" alt="bhavya1239" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavya1239&show_icons=true&locale=en" alt="bhavya1239" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/api?username=bhavya1239&show_icons=true&locale=en" alt="bhavya1239" /></p>
 

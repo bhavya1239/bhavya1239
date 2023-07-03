@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">A passionate Web developer</h3>
+<h4 align="center">Data Science</h4>
 
 - 🔭 I’m currently working on [GAMEBUZZ](https://gamebuzz.netlify.app/)
 

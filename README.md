@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">A passionate Web developer</h3>
+<h4 align="center">Data Science</h4>
 
 - 🔭 Recent Project [GAMEBUZZ](https://gamebuzz.netlify.app/)
 
 - 🌱 I’m currently learning **Web Development and Data Structure Algorithms**
 
-- 💬 Ask me about **HTML, CSS, Java Script, Python, Numpy, Pandas**
+- 💬 Ask me about **HTML, CSS, Python, Numpy, Pandas**
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 

@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Uc-h-E2VNgZ_DrRqbQm6QSGceEp0Y1kx/view?usp=sharing]
+- 📄 Know about my experiences - https://drive.google.com/file/d/1Uc-h-E2VNgZ_DrRqbQm6QSGceEp0Y1kx/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

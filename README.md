@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">Data Science</h3>
 
-- 🔭 I’m currently working on [Marks Prediction (Pipeline)])
+- 🔭 I’m currently working on **Marks Prediction (Machine Learning)**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **HTML, CSS, Python, NumPy, Pandas, Matplotlib**
+- 💬 Ask me about **Python, Machine Learning, HTML, CSS, Tableau**
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 

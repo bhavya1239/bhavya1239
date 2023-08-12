@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
-<h3 align="center">A passionate Web developer</h3>
-<h4 align="center">Data Science</h4>
+<h3 align="center">Data Science</h3>
 
-- 🔭 I’m currently working on [GAMEBUZZ](https://gamebuzz.netlify.app/)
+- 🔭 I’m currently working on [Marks Prediction (Pipeline)])
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 
-- 📄 Know about my experiences - https://drive.google.com/file/d/1Uc-h-E2VNgZ_DrRqbQm6QSGceEp0Y1kx/view?usp=sharing
+- 📄 Know about my experiences -https://drive.google.com/file/d/18Piygbg3d8iO5frIjwKOjeRf6VnLQ5DR/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

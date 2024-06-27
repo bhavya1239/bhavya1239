@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">Data Science</h3>
 
-- 🔭 I’m currently working on **Marks Prediction (Machine Learning)**
+- 🔭 I’m currently working on **Microservices**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Java FullStack Development**
 
 - 💬 Ask me about **Python, Machine Learning, HTML, CSS, Tableau**
 

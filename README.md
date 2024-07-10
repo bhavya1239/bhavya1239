@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java FullStack Development**
 
-- 💬 Ask me about **Python, Machine Learning, HTML, CSS, Tableau**
+- 💬 Ask me about **Angular, SpringBoot, Machine Learning, Microservices**
 
 - 📫 How to reach me **bhavya.sh.coc@gmail.com**
 
